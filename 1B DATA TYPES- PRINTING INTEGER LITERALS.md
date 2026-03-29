@@ -28,3 +28,4 @@ print(num3)
 
 
 ## RESULT
+Thus the python program for printing the Integer Literals has been implemented and executed successfully.
